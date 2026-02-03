@@ -15,8 +15,8 @@ Preferences prefs;
 #define BUTTON_PIN 13
 #define BUZZER_PIN 27
 
-const char* ssid = "CLARO_SANDRA";
-const char* password = "MORT2024";
+const char* ssid = "Nombre del internet";
+const char* password = "Contraseña del internet";
 
 int screen = 0;
 bool format24h = true;
